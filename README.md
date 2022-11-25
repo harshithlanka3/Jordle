@@ -13,7 +13,7 @@ java --module-path javafx-sdk-11.0.2/lib/ --add-modules=javafx.controls Jordle
 
 in the folder with all relevant files.
 
-I have provided the javafx-sdk-11.0.2 with this commit.
+I have provided the javafx-sdk-11.0.2 with this commit. A temporary version 3 of the game is also part of the repo.
 
 A project as part of the JavaFX module of the Intro to Object Oriented Programming Class at Georgia Tech (CS 1331).
 Implemented UI design methodology and OOP principles to design a smooth gameplay experience.
